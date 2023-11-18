@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MRMilton912/event/static/css/main.f855e6bc.css",
+    "main.js": "/MRMilton912/event/static/js/main.b0062454.js",
+    "static/js/787.071b1613.chunk.js": "/MRMilton912/event/static/js/787.071b1613.chunk.js",
+    "service-worker.js": "/MRMilton912/event/service-worker.js",
+    "static/media/logo.svg": "/MRMilton912/event/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/MRMilton912/event/index.html",
+    "main.f855e6bc.css.map": "/MRMilton912/event/static/css/main.f855e6bc.css.map",
+    "main.b0062454.js.map": "/MRMilton912/event/static/js/main.b0062454.js.map",
+    "787.071b1613.chunk.js.map": "/MRMilton912/event/static/js/787.071b1613.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b0062454.js"
+  ]
+}
